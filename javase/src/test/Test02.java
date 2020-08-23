@@ -8,6 +8,8 @@ public class Test02 {
 		// TODO Auto-generated method stub
 		System.out.println("@@欢迎来到黑马计算器@@");
 		System.out.println("@@欢迎来到黑马计算器@@");
+		System.out.println("@@欢迎来到黑马计算器@@");
+		System.out.println("@@欢迎来到黑马计算器@@");
 		System.out.println("请选择你的选择【1 加法 2 减法 3 乘法 4取余 5 退出 】");
 		Scanner sc =new Scanner(System.in );
 		int k =sc.nextInt();
