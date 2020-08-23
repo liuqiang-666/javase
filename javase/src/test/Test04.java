@@ -9,6 +9,7 @@ public class Test04 {
 		Random r= new Random();
 		int a=r.nextInt(91)+10;
 		System.out.println("随机数："+a);
+		System.out.println("随机数："+a);
 		int count=0;
 		for (int i = 10; i < a; i++) {
 			if(i%2==1) {
