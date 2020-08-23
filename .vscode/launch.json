@@ -1,0 +1,125 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test05",
+            "request": "launch",
+            "mainClass": "test.Test05",
+            "projectName": "javase"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - num",
+            "request": "launch",
+            "mainClass": "com.itcast.demo.num"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test06",
+            "request": "launch",
+            "mainClass": "com.itcast.demo.Test06"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "com.itcast.demo.Hello"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Count",
+            "request": "launch",
+            "mainClass": "com.itcast.Count"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - workTest",
+            "request": "launch",
+            "mainClass": "com.itcast.demo.workTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - workTest",
+            "request": "launch",
+            "mainClass": "workTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testWorker",
+            "request": "launch",
+            "mainClass": "testWorker"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestWorker",
+            "request": "launch",
+            "mainClass": "TestWorker"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - X",
+            "request": "launch",
+            "mainClass": "com.itcast.X"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E",
+            "request": "launch",
+            "mainClass": "com.itcast.E"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestA",
+            "request": "launch",
+            "mainClass": "TestA"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Method",
+            "request": "launch",
+            "mainClass": "Method"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - e",
+            "request": "launch",
+            "mainClass": "e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - a",
+            "request": "launch",
+            "mainClass": "a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - e",
+            "request": "launch",
+            "mainClass": "com.itcast.e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "com.itcast.demo.Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "app.Main",
+            "projectName": "Solutions"
+        }
+    ]
+}
+  
